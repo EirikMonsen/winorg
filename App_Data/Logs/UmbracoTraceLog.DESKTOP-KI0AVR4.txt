@@ -1302,3 +1302,5 @@ _shutDownStack=   ved System.Environment.GetStackTrace(Exception e, Boolean need
    ved System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
    ved System.Threading.ThreadPoolWorkQueue.Dispatch()
  2019-01-02 10:37:01,753 [P3508/D12/T27] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2019-01-01 10:37:01
+ 2019-01-02 10:54:52,664 [P3508/D12/T27] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: eirik.monsen@winorg.no, IP Address: ::1
+ 2019-01-02 10:54:58,231 [P3508/D12/T7] INFO  Umbraco.Core.Logging.OwinLogger - Event Id: 0, state: User logged will be logged out due to timeout: eirik.monsen@winorg.no, IP Address: ::1
