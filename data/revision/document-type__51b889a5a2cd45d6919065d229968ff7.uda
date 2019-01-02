@@ -1,0 +1,28 @@
+{
+  "DefaultTemplate": "umb://template/34d40aa5d35c4e4299e505422ce9b740",
+  "AllowedTemplates": [
+    "umb://template/34d40aa5d35c4e4299e505422ce9b740"
+  ],
+  "Icon": "icon-home color-light-blue",
+  "Thumbnail": "folder.png",
+  "Description": null,
+  "AllowedAtRoot": false,
+  "IsContainer": false,
+  "Parent": null,
+  "AllowedChildContentTypes": [],
+  "CompositionContentTypes": [],
+  "PropertyGroups": [],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/51b889a5a2cd45d6919065d229968ff7",
+  "Dependencies": [
+    {
+      "Udi": "umb://template/34d40aa5d35c4e4299e505422ce9b740",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "Home",
+  "Alias": "home",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DocumentTypeArtifact",
+  "__version": "2.0.14"
+}

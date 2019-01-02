@@ -1,0 +1,44 @@
+{
+  "DefaultTemplate": null,
+  "AllowedTemplates": [],
+  "Icon": "icon-document",
+  "Thumbnail": "folder.png",
+  "Description": null,
+  "AllowedAtRoot": false,
+  "IsContainer": false,
+  "Parent": null,
+  "AllowedChildContentTypes": [],
+  "CompositionContentTypes": [],
+  "PropertyGroups": [
+    {
+      "Key": "806bffc5-c8ce-4e00-89d2-97928e00d978",
+      "Name": "Winorg",
+      "SortOrder": 0,
+      "PropertyTypes": [
+        {
+          "Key": "0f6697ff-b993-457f-ab08-e2e1f34cbd4c",
+          "Alias": "header",
+          "DataType": "umb://data-type/1b02ab9efc28446f9cc27d415ae369e3",
+          "Description": null,
+          "Mandatory": false,
+          "Name": "header",
+          "SortOrder": 0,
+          "Validation": null
+        }
+      ]
+    }
+  ],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/810992fb23d544358983adf43439413c",
+  "Dependencies": [
+    {
+      "Udi": "umb://data-type/1b02ab9efc28446f9cc27d415ae369e3",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "HomePage",
+  "Alias": "homePage",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DocumentTypeArtifact",
+  "__version": "2.0.14"
+}

@@ -1,0 +1,20 @@
+﻿@model Umbraco.Forms.Mvc.Models.FieldViewModel  
+@using Umbraco.Forms.Mvc
+  
+@{ var i = 0; }
+
+
+<div id="@Model.Id">
+	
+@foreach (Umbraco.Forms.Mvc.Models.PrevalueViewModel pv in Model.PreValues)  
+{
+	<div class="@Html.GetFormFieldClass(Model.FieldTypeName)  radio">
+    	
+		<h1>Hello World</h1>
+    
+	</div>
+    
+    i++;
+}
+
+</div>

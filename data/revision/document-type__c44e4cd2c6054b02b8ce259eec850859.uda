@@ -1,0 +1,28 @@
+{
+  "DefaultTemplate": "umb://template/1ec68075d0494179ba7f2256ed9e92ed",
+  "AllowedTemplates": [
+    "umb://template/1ec68075d0494179ba7f2256ed9e92ed"
+  ],
+  "Icon": "icon-document",
+  "Thumbnail": "folder.png",
+  "Description": null,
+  "AllowedAtRoot": false,
+  "IsContainer": false,
+  "Parent": null,
+  "AllowedChildContentTypes": [],
+  "CompositionContentTypes": [],
+  "PropertyGroups": [],
+  "PropertyTypes": [],
+  "Udi": "umb://document-type/c44e4cd2c6054b02b8ce259eec850859",
+  "Dependencies": [
+    {
+      "Udi": "umb://template/1ec68075d0494179ba7f2256ed9e92ed",
+      "Ordering": true,
+      "Mode": 0
+    }
+  ],
+  "Name": "Homepage",
+  "Alias": "homepage",
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DocumentTypeArtifact",
+  "__version": "2.0.14"
+}

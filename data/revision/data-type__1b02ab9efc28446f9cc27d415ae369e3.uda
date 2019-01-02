@@ -1,0 +1,14 @@
+{
+  "EditorAlias": "Umbraco.TextboxMultiple",
+  "DatabaseType": 0,
+  "PreValues": {
+    "maxChars": null
+  },
+  "Parent": null,
+  "Udi": "umb://data-type/1b02ab9efc28446f9cc27d415ae369e3",
+  "Dependencies": [],
+  "Name": "HomePage - header - Textarea",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "2.0.14"
+}

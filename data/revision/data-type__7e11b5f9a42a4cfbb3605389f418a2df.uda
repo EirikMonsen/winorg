@@ -1,0 +1,14 @@
+{
+  "EditorAlias": "Umbraco.Date",
+  "DatabaseType": 3,
+  "PreValues": {
+    "format": "YYYY-MM-DD"
+  },
+  "Parent": null,
+  "Udi": "umb://data-type/7e11b5f9a42a4cfbb3605389f418a2df",
+  "Dependencies": [],
+  "Name": "test - test - Date",
+  "Alias": null,
+  "__type": "Umbraco.Deploy,Umbraco.Deploy.Artifacts.DataTypeArtifact",
+  "__version": "2.0.14"
+}
